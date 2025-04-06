@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/muggybug/task/new/main/xss-fetch.yaml",
+    "urls": [
+        {
+            "url": "https://github.com/muggybug/task/new/main/xss-fetch.yaml",
+            "name": "XSS payload"
+        }
+    ]
+}
